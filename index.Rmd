@@ -1,0 +1,12 @@
+---
+appendix          : "appendix.Rmd"
+output            : papaja::apa6_pdf
+---
+
+# Heading 1
+
+## Subheading 1
+
+# Heading 2
+
+## Subheading 2
